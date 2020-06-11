@@ -1,0 +1,157 @@
+body{
+        background-color: #d1bc8a;
+        width: 20em;
+        border:solid black;
+        border-radius: 10px;
+}
+h1 {
+        font-weight: bold;
+        text-align: center;
+        text-transform: uppercase;
+}
+h2 {
+         text-align: center;
+}
+h3 {
+         font-size: 20pt;
+         text-align: center;
+}
+h4{
+         font-size: 40pt;
+         display:inline;
+         font-weight: 100;
+}
+h5{
+         font-size: 25pt;
+         display:inline;
+}
+h6{
+         font-size: 22pt;
+         display:inline;
+}
+h7{
+         font-size: 18pt;
+         display:inline;
+}
+h8{
+         font-size: 22pt;
+         background-color: white;
+         color: #e46c0c;
+}
+h9{
+         font-size: 22pt;
+         display:inline;
+}
+p{
+         font-size: 15pt;
+}
+header {
+         text-align: center;
+}
+section {
+         border-radius: 10px;
+         background-color: #76923d;
+         color: white;
+}
+main{
+
+         color: black;
+         border-radius: 10px;
+         font-size: 20pt;
+}
+nav{
+         background-color: red;
+         color: white;
+         font-size: 28pt;
+}
+.suche{
+         width: 3em;
+         display:inline;
+
+}
+.scannen {
+         font-size: 5em;
+         text-align: center;
+
+}
+.float{
+         font-size: 15pt;
+         line-height: 2em;
+         float: right;
+}
+.center{
+         margin-left: 0.5em;
+}
+.mitte{
+         text-align: center;
+
+}
+.mitto{
+         margin-left: 3em;
+         float: left;
+}
+.mitta{
+         display:inline;
+         border: 2px solid #d1bc8a;
+         border-radius: 10px;
+}
+.mitti{
+         display:inline;
+         border: 2 solid #d1bc8a;
+         border-radius: 10px;
+}
+.mitti:hover{
+         opacity: 0.5;
+
+}
+.orange{
+         color: #e46c0c;
+         text-align: center;
+         font-size: 17pt;
+}
+.orange1{
+         color: #e46c0c;
+         margin-left: 1em;
+         font-size: 18pt;
+}
+.kkk{
+         text-align: center;
+}
+.links{
+         margin-left: 1em;
+}
+.mitte{
+         font-size: center;
+}
+.right{
+         text-align: center;
+}
+.farbskala{
+         margin-left: 1em;
+         margin-top: 1em;
+}
+.inline{
+         float: right;
+}
+.up{
+         color: #76923d;
+         font-size: 15pt;
+         margin-right: 0.5em;
+         margin-left: 0.5em
+}
+a{
+         color: #76923d;
+}
+a:hover{
+         color: #76923d;
+}
+a:fokus{
+         background-color: yellow;
+}
+a:active{
+         color: black;
+}
+table{
+         margin-left: 0.5em;
+         font-size: 18pt;
+}
